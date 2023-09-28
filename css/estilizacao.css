@@ -1,0 +1,25 @@
+
+html {
+    background: black;
+}
+
+h1 {
+    color: blue;
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+p {
+    color:orangered;
+    display: flex;
+    justify-content: center;
+
+}
+
